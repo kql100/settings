@@ -1,0 +1,59 @@
+{
+  "tables": [
+    {
+      "name": "OfficeActivity",
+      "comment": "// table name_is_OfficeActivity"
+    },
+    {
+      "name": "SigninLogs",
+      "comment": "// table name_is_SigninLogs"
+    },
+    {
+      "name": "AuditLogs",
+      "comment": "// table name_is_AuditLogs"
+    },
+    {
+      "name": "AuditLogs2",
+      "comment": "// table name_is_AuditLogs2"
+    },
+    {
+      "name": "AzureDiagnostics",
+      "comment": "// table name_is_AzureDiagnostics"
+    },
+    {
+      "name": "DeviceNetworkEvents",
+      "comment": "// table name_is_DeviceNetworkEvents"
+    },
+    {
+      "name": "tabela_test",
+      "comment": "// table name_is_tabela_test"
+    }
+  ],
+  "selectedTables": [
+    "OfficeActivity",
+    "SigninLogs",
+    "AuditLogs",
+    "AuditLogs2"
+  ],
+  "customQueries": {},
+  "favoriteQueries": {
+    "SigninLogs": [
+      0
+    ]
+  },
+  "customFavoriteNames": {
+    "SigninLogs": {
+      "0": {
+        "customName": "asdjioadjioidaj",
+        "tags": [
+          "dj",
+          "dsa",
+          "d"
+        ]
+      }
+    }
+  },
+  "eventFilterSettings": {},
+  "timeInterval": "24h",
+  "applyTimeFilter": false
+}
