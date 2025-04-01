@@ -1,0 +1,84 @@
+{
+  "tables": [
+    {
+      "name": "OfficeActivity",
+      "comment": "// table name_is_OfficeActivity"
+    },
+    {
+      "name": "SigninLogs",
+      "comment": "// table name_is_SigninLogs"
+    },
+    {
+      "name": "AuditLogs",
+      "comment": "// table name_is_AuditLogs"
+    },
+    {
+      "name": "AuditLogs2",
+      "comment": "// table name_is_AuditLogs2"
+    },
+    {
+      "name": "AzureDiagnostics",
+      "comment": "// table name_is_AzureDiagnostics"
+    },
+    {
+      "name": "DeviceNetworkEvents",
+      "comment": "// table name_is_DeviceNetworkEvents"
+    },
+    {
+      "name": "tabela_test",
+      "comment": "// table name_is_tabela_test"
+    }
+  ],
+  "selectedTables": [
+    "AuditLogs",
+    "AuditLogs2",
+    "OfficeActivity"
+  ],
+  "customQueries": {},
+  "searchValue": "",
+  "customTiles": [
+    {
+      "id": "tile-1743511610873",
+      "label": "1",
+      "query": "1"
+    },
+    {
+      "id": "tile-1743511613871",
+      "label": "1",
+      "query": "11"
+    },
+    {
+      "id": "tile-1743511616159",
+      "label": "1",
+      "query": "1"
+    },
+    {
+      "id": "tile-1743511619060",
+      "label": "1",
+      "query": "1"
+    }
+  ],
+  "favoriteQueries": {
+    "AuditLogs": [
+      0
+    ],
+    "OfficeActivity": [
+      0
+    ]
+  },
+  "customFavoriteNames": {
+    "AuditLogs": {
+      "0": {
+        "customName": "12",
+        "tags": []
+      }
+    },
+    "OfficeActivity": {
+      "0": {
+        "customName": "211221",
+        "tags": []
+      }
+    }
+  },
+  "eventFilterSettings": {}
+}
