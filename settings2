@@ -1,0 +1,50 @@
+{
+  "tables": [
+    {
+      "name": "OfficeActivity",
+      "comment": "// table name_is_OfficeActivity"
+    },
+    {
+      "name": "SigninLogs",
+      "comment": "// table name_is_SigninLogs"
+    },
+    {
+      "name": "AuditLogs",
+      "comment": "// table name_is_AuditLogs"
+    },
+    {
+      "name": "AuditLogs2",
+      "comment": "// table name_is_AuditLogs2"
+    },
+    {
+      "name": "AzureDiagnostics",
+      "comment": "// table name_is_AzureDiagnostics"
+    },
+    {
+      "name": "DeviceNetworkEvents",
+      "comment": "// table name_is_DeviceNetworkEvents"
+    },
+    {
+      "name": "tabela_test",
+      "comment": "// table name_is_tabela_test"
+    }
+  ],
+  "selectedTables": [
+    "OfficeActivity",
+    "SigninLogs",
+    "AuditLogs2",
+    "AzureDiagnostics"
+  ],
+  "customQueries": {},
+  "searchValue": "",
+  "customTiles": [
+    {
+      "id": "tile-1743509566203",
+      "label": "222222",
+      "query": "22222222222222"
+    }
+  ],
+  "favoriteQueries": {},
+  "customFavoriteNames": {},
+  "eventFilterSettings": {}
+}
